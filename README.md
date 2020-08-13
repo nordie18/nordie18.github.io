@@ -1,9 +1,9 @@
 # Bruno Oliveira
 
 
-Olá, me chamo Bruno Oliveira, estou cursando C.C e como muita banana.
+Olá, me chamo Bruno Oliveira, estou cursando C.C e como muito pudim.
 
-![Imagem de banana](https://commons.wikimedia.org/wiki/File:Banana-Single.jpg)
+![Imagem de pudim](http://pudim.com.br)
 
 ## Competências
 
